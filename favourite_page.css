@@ -1,0 +1,86 @@
+.first_page_background
+{
+    background-image: url("ocean.jpg");
+    height:100vh;
+    background-size: cover;
+}
+
+.first_page_card
+{
+    background-color: white;
+    border-top-left-radius : 25px;
+    border-top-right-radius: 25px;
+    text-align: center;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.second_page_background
+{
+    background-image: url("tower.jpg");
+    height: 130vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+.Tajmahal
+{
+    background-color: white;
+    font-family: Roboto;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 8px;
+}
+
+.favourite_page_images
+{
+    height: 20vh;
+    width: 10vw;
+}
+
+.Golden_Temple
+{
+    background-color: white;
+    font-family: Roboto;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 8px;
+}
+
+.Mysore_Palace
+{
+    background-color: white;
+    font-family: Roboto;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 8px;
+}
+
+.Varanasi_Temple
+{
+    background-color: white;
+    font-family: Roboto;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 8px; 
+}
+
+.Detail_view_background
+{
+    background-image: url("sea.jpg");
+    height: 155vh;
+    background-size: cover;
+    padding: 50px;
+}
+
+.carousel-inner{
+    height: 85vh;
+    background-size: cover;
+}
+
+.Detailed_View_Card
+{
+    background-color: white;
+    font-family: Roboto;
+    height: 125vh;
+}
